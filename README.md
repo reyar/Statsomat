@@ -1,5 +1,5 @@
 # Statsomat
-Example CSV datasets to be used with the Statsomat apps. Download the CSV datasets by clicking on the big green **Code** button. Save them locally and upload them to the Statsomat apps. 
+Example CSV datasets to be used with the Statsomat apps. Download the CSV datasets (for desktop by clicking on the big green **Code** button). Save them locally and upload them to the Statsomat apps. 
 
 Data details:
 
