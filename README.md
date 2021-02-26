@@ -3,6 +3,6 @@ Example CSV datasets to be used with the Statsomat apps. Download the CSV datase
 
 Data details:
 
-* The dataset Ants_Impact_on_Cacao_Trees.csv is extracted from https://datadryad.org/stash/dataset/doi:10.5061/dryad.90329. It is suitable to the Descriptive Statistics app or to the Correlations & Association app.  
-* The dataset HolzingerSwineford1939.csv is extracted from the R package lavaan and is suitable to the Descriptive Statistics app or to the Confirmatory-Factor-Analysis app. A suitable model syntax is contained in the file Model_Syntax_for_the_CFA_dataset.txt 
-* The dataset Three_Normal.csv is simulated and suitable to the Descriptive Statistics app or to the Correlations & Association app.  
+* The dataset Ants_Impact_on_Cacao_Trees.csv is extracted from https://datadryad.org/stash/dataset/doi:10.5061/dryad.90329. 
+* The dataset HolzingerSwineford1939.csv is extracted from the R package lavaan. A suitable model syntax for the Confirmatory Factor Analysis is contained in the file Model_Syntax_for_the_CFA_dataset.txt 
+* The dataset Three_Normal.csv is simulated. 
