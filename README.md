@@ -1,5 +1,4 @@
-# Statsomat
-Example CSV datasets to be used with the Statsomat apps.
+# Example CSV datasets to be used with the Statsomat apps https://statsomat.com 
 
 Data details:
 
